@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProgrammingInCSharp", "ParallelProgrammingInCSharp\ParallelProgrammingInCSharp.csproj", "{EAA9E7DA-F690-49E2-9852-FF55775BC567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelOptions", "ParallelOptions\ParallelOptions.csproj", "{43E873AC-F734-4C5B-B7F1-05B6E36DFA8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminatingAParallelLoop", "TerminatingAParallelLoop\TerminatingAParallelLoop.csproj", "{48DC3738-4B56-422A-9CED-A6E8D7C09ABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelForEach", "ParallelForEach\ParallelForEach.csproj", "{78FBF4CD-65A3-4F8C-8D01-1BC39F6826AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelInvoke", "ParallelInvoke\ParallelInvoke.csproj", "{54CB0A15-A139-4D23-966C-0F7439F85D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQ", "PLINQ\PLINQ.csproj", "{CB0EDD6F-0BAD-4D99-8406-2B8BE459A8B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA9E7DA-F690-49E2-9852-FF55775BC567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA9E7DA-F690-49E2-9852-FF55775BC567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA9E7DA-F690-49E2-9852-FF55775BC567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA9E7DA-F690-49E2-9852-FF55775BC567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E873AC-F734-4C5B-B7F1-05B6E36DFA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E873AC-F734-4C5B-B7F1-05B6E36DFA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E873AC-F734-4C5B-B7F1-05B6E36DFA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E873AC-F734-4C5B-B7F1-05B6E36DFA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48DC3738-4B56-422A-9CED-A6E8D7C09ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DC3738-4B56-422A-9CED-A6E8D7C09ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DC3738-4B56-422A-9CED-A6E8D7C09ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DC3738-4B56-422A-9CED-A6E8D7C09ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78FBF4CD-65A3-4F8C-8D01-1BC39F6826AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78FBF4CD-65A3-4F8C-8D01-1BC39F6826AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78FBF4CD-65A3-4F8C-8D01-1BC39F6826AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78FBF4CD-65A3-4F8C-8D01-1BC39F6826AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CB0A15-A139-4D23-966C-0F7439F85D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CB0A15-A139-4D23-966C-0F7439F85D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CB0A15-A139-4D23-966C-0F7439F85D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CB0A15-A139-4D23-966C-0F7439F85D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB0EDD6F-0BAD-4D99-8406-2B8BE459A8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0EDD6F-0BAD-4D99-8406-2B8BE459A8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0EDD6F-0BAD-4D99-8406-2B8BE459A8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0EDD6F-0BAD-4D99-8406-2B8BE459A8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
